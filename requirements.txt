@@ -1,0 +1,9 @@
+Flask
+twilio
+flask-sock 
+simple-websocket
+pyngrok
+openai
+openai-whisper
+elevenlabs
+google-generativeai
